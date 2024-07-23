@@ -1,0 +1,68 @@
+<Lista>
+	<persoane>
+		<id> 1 </id>
+		<Oras> Iasi </Oras>
+		<Nume> Roxana </Nume>
+		<Adresa>
+			<Strada> Strada Panselutei </Strada>
+			<Casa> nr.230 </Casa>
+			<nr.apartament> --- </nr.apartament>
+			<Date_de_contact>
+				<numar_de_telefon>0743202434</numar_de_telefon>
+				<email> test.01@yahoo.com </email>
+				<skype> 01158 88 1402 </skype>
+			</Date_de_contact>
+		</Adresa>
+		<id> 2 </id>
+		<Oras> Bucuresti </Oras>
+		<Nume> George </Nume>
+		<Adresa>
+			<Strada> Carol I </Strada>
+			<Bloc> 30B </Bloc>
+			<nr.apartament> 30 </nr.apartament>
+			<etaj> 6 </etaj>
+			<Date_de_contact>
+				<numar_de_telefon>0724214567</numar_de_telefon>
+				<email> test.03@gmail.com </email>
+				<skype> 02345 77 1703 </skype>
+			</Date_de_contact>
+		</Adresa>
+		<id> 3 </id>
+		<Oras> Brasov </Oras>
+		<Nume> Alex </Nume>
+		<Adresa>
+			<Strada> Independentei </Strada>
+			<Casa> Nr.200 </Casa>
+			<Nr.apartament> ------ </Nr.apartament>
+			<Date_de_contact>
+				<nr_de_telefon> 0786542312</nr_de_telefon>
+				<email> Test_00@outlook.com</email>
+				<skipe> 02350 78 1905</skipe>
+			</Date_de_contact>
+		</Adresa>
+		<id> 4 </id>
+		<Oras> Galati </Oras>
+		<Nume> Andreea </Nume>
+		<Adresa>
+			<Strada> Mihai Eminescu </Strada>
+			<Bloc> 48C</Bloc>
+			<Nr.apartament> 49 </Nr.apartament>
+			<Etaj> 10 </Etaj>
+			<Date_de_contact>
+				<nr_de_telefon> 0756453421</nr_de_telefon>
+				<email> test.test@gmail.com</email>
+				<skipe> 03578 79 2011</skipe>
+			</Date_de_contact>
+		</Adresa>
+	</persoane>
+</Lista>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

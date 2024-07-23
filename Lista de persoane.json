@@ -1,0 +1,68 @@
+{
+	"Lista": {
+		"persoane": {
+			"id": [
+				"1",
+				"2",
+				"3",
+				"4"
+			],
+			"Oras": [
+				"Iasi",
+				"Bucuresti",
+				"Brasov",
+				"Galati"
+			],
+			"Nume": [
+				"Roxana",
+				"George",
+				"Alex",
+				"Andreea"
+			],
+			"Adresa": [
+				{
+					"Strada": "Strada Panselutei",
+					"Casa": "nr.230",
+					"nr.apartament": "---",
+					"Date_de_contact": {
+						"numar_de_telefon": "0743202434",
+						"email": "test.01@yahoo.com",
+						"skype": "01158 88 1402"
+					}
+				},
+				{
+					"Strada": "Carol I",
+					"Bloc": "30B",
+					"nr.apartament": "30",
+					"etaj": "6",
+					"Date_de_contact": {
+						"numar_de_telefon": "0724214567",
+						"email": "test.03@gmail.com",
+						"skype": "02345 77 1703"
+					}
+				},
+				{
+					"Strada": "Independentei",
+					"Casa": "Nr.200",
+					"Nr.apartament": "------",
+					"Date_de_contact": {
+						"nr_de_telefon": "0786542312",
+						"email": "Test_00@outlook.com",
+						"skipe": "02350 78 1905"
+					}
+				},
+				{
+					"Strada": "Mihai Eminescu",
+					"Bloc": "48C",
+					"Nr.apartament": "49",
+					"Etaj": "10",
+					"Date_de_contact": {
+						"nr_de_telefon": "0756453421",
+						"email": "test.test@gmail.com",
+						"skipe": "03578 79 2011"
+					}
+				}
+			]
+		}
+	}
+}
